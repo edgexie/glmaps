@@ -96,7 +96,7 @@ I highly recommend you follows these steps in using `glmaps`:
 Open browser and enter <https://localhost:8080> to check the demo locally. Please enjoy the power of `three.js` and `deck.gl`.
 
 ```
-git clone git@github.com:hijiangtao/glmaps.git
+git clone https://github.com/hijiangtao/glmaps.git
 cd glmaps
 npm install
 touch devconfigs.js
